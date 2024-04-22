@@ -12,7 +12,7 @@ Welcome to my GitHub page!
 
 - **Programming Languages**: C#, SQL
 - **Web Development**: HTML, CSS, JavaScript
-- **Tools**: Visual Studio, MySQL Workbench
+- **Tools**: Visual Studio, Visual Studio Code, MySQL Workbench
 - **Frameworks**: .NET for C#
 
 ## Current Projects
