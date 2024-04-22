@@ -17,7 +17,7 @@ Welcome to my GitHub page!
 
 ## Current Projects
 
-- **Home Server Setup**: Configuring and maintaining a home server using Debian 12.5 without a graphical user interface (GUI).
+- **Home Server**: Configuring and maintaining a home server using Debian 12.5 without a graphical user interface (GUI).
 
 ## Contact
 
