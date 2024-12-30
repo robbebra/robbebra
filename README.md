@@ -10,10 +10,10 @@ Welcome to my GitHub page!
 
 ## Skills
 
-- **Programming Languages**: C#, SQL
+- **Programming Languages**: C#, SQL, Kotlin
 - **Web Development**: HTML, CSS, JavaScript
-- **Tools**: Visual Studio, Visual Studio Code, MySQL Workbench
-- **Frameworks**: .NET for C#
+- **Tools**: Visual Studio, Visual Studio Code, MySQL Workbench, Android Studio, JetBrains Fleet
+- **Frameworks**: .NET for C#, MVC Pattern
 
 ## Current Projects
 
