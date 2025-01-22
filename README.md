@@ -10,10 +10,10 @@ Welcome to my GitHub page!
 
 ## Skills
 
-- **Programming Languages**: C#, SQL, Kotlin
-- **Web Development**: HTML, CSS, JavaScript
+- **Programming Languages**: C#, JavaScript, Kotlin
+- **Web Development**: HTML, CSS
 - **Tools**: Visual Studio, Visual Studio Code, MySQL Workbench, Android Studio, JetBrains Fleet, Docker Desktop
-- **Databases**: SQL Server via Docker
+- **Databases**: SQL Server (via Docker)
 - **Frameworks**: .NET for C#, MVC Pattern
 
 ## Current Projects
