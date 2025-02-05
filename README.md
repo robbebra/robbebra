@@ -5,7 +5,7 @@ Welcome to my GitHub page!
 ## About Me
 
 - **Name**: Robbe Braeckmans
-- **Age**: 22 years
+- **Age**: 23 years
 - **Study**: Programming at Odisee
 
 ## Skills
